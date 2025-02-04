@@ -1,1 +1,1 @@
-pip install groq
+pip3 install groq
