@@ -1,1 +1,4 @@
-pip3 install groq
+streamlit==1.30.0
+groq==0.1.0
+transformers==4.38.2
+huggingface_hub==0.20.3
